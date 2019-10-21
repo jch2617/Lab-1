@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "/Users/joshhall/Documents/checkerboard/grand-circus"
+		},
+		{
+			"path": "/Users/joshhall/Documents/Grand Circus/Excercises"
+		},
+		{
+			"path": "/Users/joshhall/Documents/Grand Circus/Labs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Labs"
+	}
+}
